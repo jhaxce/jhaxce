@@ -23,12 +23,12 @@ if __name__ == '__main__':
 <p align=center>
   <div align=center>
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=jhaxce&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=jhaxce&show_icons=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api?username=jhaxce&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=jhaxce&show_icons=true" />
     </picture>
     <picture>
-      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=jhaxce&theme=dracula" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=jhaxce&theme=github_dark" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-streak-stats.herokuapp.com?user=jhaxce" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=jhaxce" />
     </picture>
@@ -36,7 +36,7 @@ if __name__ == '__main__':
   <br><br><br><br><br><br><br><br>
   <div align=center>
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jhaxce&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jhaxce&theme=github_dark&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jhaxce&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhaxce&langs_count=8&layout=compact" />
     </picture>
