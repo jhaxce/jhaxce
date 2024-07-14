@@ -63,7 +63,7 @@ if __name__ == '__main__':
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/RPDLDSg.png">
+  <!--<img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/RPDLDSg.png">-->
 </div>
 
 ##
@@ -78,7 +78,7 @@ if __name__ == '__main__':
 
   ![Snake animation](https://github.com/jhaxce/jhaxce/blob/output/github-contribution-grid-snake.svg)
   
-   <!--
+  <!--
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhaxce/jhaxce/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhaxce/jhaxce/output/github-contribution-grid-snake.svg">
