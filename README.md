@@ -3,13 +3,13 @@
 ```python
 class AboutMe():
   # I'm a passionate self-taught programmer.
-  # I’m currently learning SwiftUI and Flutter.
+  # I’m currently learning Flutter.
     
   def __init__(self):
     self.name = "Jack"
     self.username = "jhaxce"
-    self.location = "Lima, Peru"
-    self.portfolio = "https://jhaxce.github.io"
+    self.location = "Philippines"
+    self.portfolio = "https://jhaxce.github.io/cv/"
   
   def __str__(self):
     return self.name
