@@ -3,7 +3,7 @@
 ```python
 class AboutMe():
   # I'm a passionate self-taught programmer.
-  # I’m currently learning Flutter.
+  # I’m currently learning Flutter and playing CTFs.
     
   def __init__(self):
     self.name = "Jack"
