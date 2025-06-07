@@ -46,7 +46,7 @@ if __name__ == '__main__':
     <a href="https://github.com/jhaxce">
       <!--<img src="https://visitcount.itsvg.in/api?id=jhaxce&label=Profile%20Views&color=0&icon=6&pretty=true" />-->
       
-      [![Visits Badge](https://badges.pufler.dev/visits/jhaxce/jhaxce)](https://github.com/jhaxce)
+  [![Visits Badge](https://badges.pufler.dev/visits/jhaxce/jhaxce)](https://github.com/jhaxce)
     </a>
   </div>
 </p>
