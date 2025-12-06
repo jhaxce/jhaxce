@@ -51,7 +51,9 @@ if __name__ == '__main__':
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhaxce&langs_count=8&layout=compact" />
   </picture>
 </div>
-<br>
+
+---
+
 <div align=center>
   
   [![Visits Badge](https://badges.strrl.dev/visits/jhaxce/jhaxce?labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)](https://github.com/jhaxce)
