@@ -23,8 +23,8 @@ if __name__ == '__main__':
 <p align=center>
   <div align=center>
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=jhaxce&show_icons=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=jhaxce&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhaxce&theme=github_dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhaxce&theme=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=jhaxce&show_icons=true" />
     </picture>
     <picture>
@@ -36,8 +36,8 @@ if __name__ == '__main__':
   <br><br><br><br><br><br><br><br>
   <div align=center>
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jhaxce&theme=github_dark&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jhaxce&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhaxce&theme=github_dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jhaxce&langs_count=8&layout=compact](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhaxce&theme=github_dark" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhaxce&langs_count=8&layout=compact" />
     </picture>
   </div>
@@ -46,7 +46,7 @@ if __name__ == '__main__':
     <a href="https://github.com/jhaxce">
       <!--<img src="https://visitcount.itsvg.in/api?id=jhaxce&label=Profile%20Views&color=0&icon=6&pretty=true" />-->
 
-  [![Visits Badge](https://badges.pufler.dev/visits/jhaxce/jhaxce?labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge
+  [![Visits Badge](https://badges.strrl.dev/visits/jhaxce/jhaxce?labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge
 )](https://github.com/jhaxce)
     </a>
   </div>
