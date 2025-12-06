@@ -51,13 +51,11 @@ if __name__ == '__main__':
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhaxce&langs_count=8&layout=compact" />
   </picture>
 </div>
-
----
-
+<br>
 <div align=center>
-  
-  [![Visits Badge](https://badges.strrl.dev/visits/jhaxce/jhaxce?labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)](https://github.com/jhaxce)
-
+  <picture>
+    <img src="https://badges.strrl.dev/visits/jhaxce/jhaxce?labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" />
+  </picture>
 </div>
 
 ---
@@ -99,14 +97,14 @@ if __name__ == '__main__':
 
 <div align=center>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhaxce/jhaxce/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhaxce/jhaxce/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/jhaxce/jhaxce/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhaxce/jhaxce/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhaxce/jhaxce/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/jhaxce/jhaxce/output/github-contribution-grid-snake.svg">
   </picture>
 
   <picture>
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhaxce&theme=github_dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhaxce&theme=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jhaxce&show_icons=true" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhaxce&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhaxce&theme=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jhaxce&show_icons=true" />
   </picture>
 </div>
